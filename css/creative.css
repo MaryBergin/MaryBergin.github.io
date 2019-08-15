@@ -67,7 +67,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #86BBD8;
 }
 
 [tabindex="-1"]:focus {
@@ -493,7 +493,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #86BBD8;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -1745,12 +1745,12 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #fbc0b0;
+  background-color: #86BBD8;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #fbc0b0;
+  background-color: #86BBD8;
 }
 
 .table-secondary,
@@ -6976,7 +6976,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #EAD7D1 !important;
+  background-color: #86BBD8 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10621,7 +10621,7 @@ hr.light {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #161925;
+  color: #212529;
 }
 /*Link scroll colour*/
 #mainNav .navbar-nav .nav-item .nav-link.active {
@@ -10640,7 +10640,7 @@ hr.light {
   }
     /*Title Hover*/
   #mainNav .navbar-brand:hover {
-    color: #fff;
+    color: #86BBD8;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     color: rgba(255, 255, 255, 0.7);
@@ -10648,7 +10648,7 @@ hr.light {
   }
   /*Link Hover*/
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #EAD7D1;
+    color: #86BBD8;
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
@@ -10657,7 +10657,7 @@ hr.light {
   #mainNav.navbar-scrolled {
     -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #EAD7D1;
+    background-color: #86BBD8;
   }
   /*Scrolled Colour*/
   #mainNav.navbar-scrolled .navbar-brand {
