@@ -282,7 +282,7 @@ header .intro-text .intro-heading {
 4. Sections
 --------------------*/
 
-.section-title h2 {
+.section-title h1 {
 	font-size: 34px;
 	text-transform: uppercase;
 	color: #5D5D5D;
@@ -293,7 +293,7 @@ header .intro-text .intro-heading {
 	padding-bottom: 15px;
 }
 
-.section-title h2:after {
+.section-title h1:after {
 	left: 50%;
 	z-index: 1;
 	width: 40px;
@@ -389,6 +389,7 @@ figure {
 	background: #726FB9;
 	text-align: center;
 	cursor: pointer;
+
 }
 
 figcaption {
@@ -405,6 +406,7 @@ figcaption {
 	white-space: nowrap;
 	font-size: 0;
 	opacity: 0;
+
 }
 .ot-portfolio-item figure figcaption, .ot-portfolio-item figure figcaption > a {
 	position: absolute;
@@ -504,9 +506,10 @@ figure.effect-bubba:hover p {
 }
 
 .dark-bg {
-	background-color: #333231;
-	color: #fff;
+	background-color: #161925;
+
 }
+
 
 .short-section {
 	border-top: 1px solid #5D5D5F;
