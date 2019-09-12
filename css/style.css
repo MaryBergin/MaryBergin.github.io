@@ -93,14 +93,14 @@ ul {
 }
 
 ul li {
-    list-style: none;
+    
     padding-bottom: 10px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
     line-height: 23px;
     letter-spacing: 0.2px;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 section ul li:before {
@@ -109,7 +109,7 @@ section ul li:before {
 	font-style: normal;
 	display: inline-block;
 	text-decoration: inherit;
-	content: "\f105";
+	content: disc;
 	padding-right: 7px;
 	color: #23AD21;
 }
