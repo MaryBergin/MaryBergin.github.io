@@ -93,7 +93,7 @@ ul {
 }
 
 ul li {
-    
+
     padding-bottom: 10px;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -508,6 +508,9 @@ figure.effect-bubba:hover p {
 .dark-bg {
 	background-color: #161925;
 
+}
+.grey-bg{
+	background-color: #d6d6d6;
 }
 
 
